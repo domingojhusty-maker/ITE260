@@ -1,5 +1,3 @@
-# PINAKA BASIC TRAVEL CALCULATOR
-
 days = int(input("Ilang araw? "))
 stay = int(input("Magkano stay per day? "))
 food = int(input("Magkano pagkain per day? "))
